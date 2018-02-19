@@ -18,7 +18,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/favicon.gif"
+  favicon = "favicon.gif"
   facebook = ""
   twitter = "https://twitter.com/patux"
   instagram = ""
