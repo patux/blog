@@ -3,6 +3,7 @@ baseURL = "http://patux.net"
 languageCode = "en-us"
 theme = "ananke"
 background_color_class = "bg-black"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
