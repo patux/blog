@@ -1,0 +1,31 @@
+title = "Patux's Home"
+baseURL = "http://patux.net"
+languageCode = "en-us"
+theme = "ananke"
+background_color_class = "bg-black"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-1686459-1"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "/images/favicon.gif"
+  facebook = ""
+  twitter = "https://twitter.com/patux"
+  instagram = ""
+  aboutme = "https://about.me/patux"
+  youtube = ""
+  github = "https://github.com/patux"
+  linkedin = "https://www.linkedin.com/in/patux/"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/sn_penguins.jpg"
+  recent_posts_number = 2

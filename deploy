@@ -1,0 +1,10 @@
+#!/bin/sh
+set -x
+USER=${USER:-user}
+HOST=${HOST:-host}
+DIR=${DIR:-dir}  # might sometimes be empty!
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0
+
