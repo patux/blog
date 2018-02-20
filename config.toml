@@ -11,6 +11,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-1686459-1"
 enableRobotsTXT = true
+disqusShortname = "patux-net"
 
 [sitemap]
   changefreq = "monthly"
