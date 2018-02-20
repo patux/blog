@@ -4,7 +4,7 @@ date: 2018-02-19T00:55:56-06:00
 draft: false 
 featured_image: "images/logo_glo.png"
 ---
-Se esta organizando una reunion de el [Grupo Linux de Occidente](http://glo.org.mx), casi despues de 20 a&ntilde;os de su fundacion. Sera interesante asistir y ver las caras de viejos amigos, camaradas y ver que ha sido de nosotros despues de tantas guerras santas, ideales y vision acerca del futuro dominado por un sistema libre y de codigo abierto. 
+[Se esta organizando una reunion](https://www.mail-archive.com/glo@glo.org.mx/msg03349.html) del [Grupo Linux de Occidente](http://glo.org.mx), casi despues de 20 a&ntilde;os de su fundacion. Sera interesante asistir y ver las caras de viejos amigos, camaradas y ver que ha sido de nosotros despues de tantas guerras santas, ideales y vision acerca del futuro dominado por un sistema libre y de codigo abierto. 
 
 Ciertamente las cosas son muy diferentes respecto a hace 20 a&ntilde;os y el Open Source ya no es lo que era en esos tiempos.
 
