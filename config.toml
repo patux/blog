@@ -19,7 +19,7 @@ disqusShortname = "patux-net"
   filename = "sitemap.xml"
 
 [params]
-  favicon = "favicon.gif"
+  favicon = "favicon.ico"
   facebook = ""
   twitter = "https://twitter.com/patux"
   instagram = ""
