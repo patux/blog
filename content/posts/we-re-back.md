@@ -2,7 +2,7 @@
 title: "We are back"
 date: 2018-02-19T00:00:42-06:00
 draft: false 
-tags: ["personal", "2018"]
+tags: ["personal", "2018", "english"]
 ---
 {{< figure src="/images/patux_grandreopening.jpg" >}}
 

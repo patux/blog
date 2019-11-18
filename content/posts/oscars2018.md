@@ -2,7 +2,7 @@
 title: "Oscars 2018"
 date: 2018-02-22T22:04:18-06:00
 draft: false
-tags: ["movies", "2018"] 
+tags: ["movies", "2018", "english"]
 ---
 
 Here is my list of favorites to win for some categories in the upcomming [90th Academy Awards ceremony](https://www.oscars.org/oscars/ceremonies/2018) 
