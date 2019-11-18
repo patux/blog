@@ -2,8 +2,10 @@
 title: "We are back"
 date: 2018-02-19T00:00:42-06:00
 draft: false 
-featured_image: "images/patux_grandreopening.jpg"
+tags: ["personal", "2018"]
 ---
+{{< figure src="/images/patux_grandreopening.jpg" >}}
+
 After almost a year out, I am bringing my personal site and blog back to life. 
 
 Lots and lots of blog post and personal history and growth trough my journey in the open source and software technology are lost... 
