@@ -29,7 +29,7 @@ disqusShortname = "patux-net"
   [[menu.nav]]
     name = "Blog"
     pre = "edit"
-    url = "/posts/"
+    url = "/blog/"
     weight = 2
   [[menu.nav]]
     name = "Tags"
