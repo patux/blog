@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 <h1>{{ .Title }}</h1>
+<div style="text-align: justify;">
 {{ .Content }}
+</div>
 
 {{with eq .Params.disqus false}}
     <div></div>
