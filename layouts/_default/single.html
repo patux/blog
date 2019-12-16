@@ -1,5 +1,9 @@
 {{ define "main" }}
-{{ partial "header" . }}
+{{with eq .Params.header false}}
+    <p></p>
+  {{ else }}
+    {{ partial "header.html" . }}
+  {{ end }}
 <div style="text-align: justify;">
 {{ .Content }}
 </div>
