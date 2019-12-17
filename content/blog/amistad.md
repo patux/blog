@@ -12,4 +12,4 @@ Este tipo de muestras de cariño no las veo seguido, y menos de personas que no 
 
 No sentía que me hubiera aportado nada, o que compartiera algo en particular con esas personas y mucho menos haber salido con amistades solidas. Lo que recordaba era el bulling, mi ñoñez, mi inexperiencia y poco interés por el sexo femenino, mi adicción a los vídeo juegos, niños y niñas en plena hormona, y una variopinta diversidad de niveles socio económicos. No daba tres pesos por esas personas en ese momento y cuando los volví a ver después de 25 años me dio tanto gusto que en la siguiente reunión les hice un asado. Quien sabe porque y como suceden estas cosas, pero es bonito. <3
 
-{{<tweet 1198994474614972418 >}}
+{{<twitter_simple 1198994474614972418 >}}
