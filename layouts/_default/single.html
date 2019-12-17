@@ -1,8 +1,11 @@
 {{ define "main" }}
-{{with eq .Params.header false}}
-    <p></p>
+
+<h1>{{ .Title }}</h1>
+{{with eq .Params.dateandtags false}}
+    <br><br>
   {{ else }}
-    {{ partial "header.html" . }}
+    {{ partial "date-and-tags.html" . }}
+    <br><br>
   {{ end }}
 <div style="text-align: justify;">
 {{ .Content }}
