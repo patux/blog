@@ -3,6 +3,7 @@ baseURL = "http://patux.net"
 languageCode = "en-us"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-1686459-1"
+paginate  = 10
 
 # Uncomment below to enable syntax highlighting
 # pygmentsCodefences = true
