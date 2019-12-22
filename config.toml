@@ -47,6 +47,17 @@ disqusShortname = "patux-net"
     pre = "rss"
     url = "/index.xml"
     weight = 5
+  [[menu.nav]]
+    name = "  "
+    pre = "twitter"
+    url = "https://twitter.com/patux"
+    weight = 6
+  [[menu.nav]]
+    Name = "   "
+    hideName = true
+    pre = "linkedin"
+    url = "https://www.linkedin.com/in/patux/"
+    weight = 7
 
 [params]
   favicon = "favicon.ico"
