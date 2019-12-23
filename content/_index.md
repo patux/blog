@@ -1,4 +1,4 @@
 ---
 title: "Patux's home"
-description: "Open Source Software & Patux's personal interests"
+description: "Patux's random thoughts"
 ---
