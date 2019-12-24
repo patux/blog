@@ -1,4 +1,4 @@
-title = "Patux's Home"
+title = "Patux's home"
 baseURL = "https://patux.github.io/"
 languageCode = "en-us"
 theme = "vanilla-bootstrap-hugo-theme"
@@ -65,6 +65,6 @@ disqusShortname = "patux-blog"
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Patux's random thoughts"
+  homeText = "Geronimo Orozco's personal blog"
   footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = false
