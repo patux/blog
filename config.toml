@@ -1,5 +1,5 @@
 title = "Patux's home"
-baseURL = "https://patux.github.io/"
+baseURL = "https://www.patux.net"
 languageCode = "en-us"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-1686459-1"
