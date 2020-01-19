@@ -1,19 +1,17 @@
-{{ define "main" }}
-
-<h1>{{ .Title }}</h1>
-{{with eq .Params.dateandtags false}}
-    <br><br>
-  {{ else }}
-    {{ partial "date-and-tags.html" . }}
-    <br><br>
-  {{ end }}
-<div style="text-align: justify;">
-{{ .Content }}
-</div>
-
-{{with eq .Params.disqus false}}
+{{- define "main" -}}
+{{- partial "article-header.html" . -}}
+{{- $justify := false -}}
+{{- if eq .Params.justify true -}} {{- $justify = true -}} {{- end -}}
+<article class="article markdown-body" {{- if $justify -}}style="text-align: justify;" {{- end -}}>
+    {{- .Content -}}
+</article>
+{{ with eq .Params.footer false }}
     <div></div>
-  {{ else }}
-    {{ partial "disqus.html" . }}
-  {{ end }}
+{{ else }}
+    {{- partial "article-labels.html" . -}}
+    {{- partial "article-license.html" . -}}
+    {{- partial "article-author.html" . -}}
+    {{- partial "article-bottom-navigation.html" . -}}
+    {{- partial "article-comments.html" . -}}
 {{ end }}
+{{- end -}}

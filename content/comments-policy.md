@@ -1,8 +1,7 @@
 ---
 title: "Comments Policy"
 date: 2019-12-23T11:26:26-06:00
-disqus: false
-dateandtags: false
+footer: false
 ---
 
 Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:

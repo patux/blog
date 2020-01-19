@@ -1,8 +1,7 @@
 ---
 date: "2019-12-16"
 title: "About"
-disqus: false
-dateandtags: false
+footer: false
 ---
 
 software engineering manager, open source software, biker, nature, travel & dog lover, opinions my own.
