@@ -2,8 +2,8 @@
 title = "cadera"
 date = 2020-01-19T15:41:01-06:00
 lastmod = 2020-01-19T15:41:01-06:00
-tags = ["personal", "2020", "cadera", "therapy", "condition", "me"]
-categories = []
+tags = ["2020", "condition", "spanish"]
+categories = ["personal"]
 imgs = ["cadera.jpg", "micadera.jpg"]
 readingTime = false  # show reading time after article date
 toc = false

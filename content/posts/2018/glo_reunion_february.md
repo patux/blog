@@ -2,7 +2,8 @@
 title: "Reunion GLO Febrero 2018"
 date: 2018-02-19T00:55:56-06:00
 draft: false 
-tags: ["linux", "usergroups", "mexico", "guadalajara", "opensource", "lugs", "2018", "spanish"]
+tags: ["usergroups", "mexico", "guadalajara", "opensource", "lugs", "2018", "spanish"]
+categories: ["general"]
 ---
 {{< figure src="/images/logo_glo.png" >}}
 

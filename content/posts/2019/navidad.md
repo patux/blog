@@ -1,7 +1,8 @@
 ---
 title: "espiritu navideño"
 date: 2019-12-21T21:00:23-06:00
-tags: ["2019", "spanish", "personal", "reflections"]
+tags: ["2019", "spanish", "reflections"]
+categories: ["personal"]
 ---
 
 Por alguna razón este año me siento con mas espíritu navideño, usualmente navidad y año nuevo no me llamaban la atención, por lo general me caían gordas las personas que andaban todas felices y sonrientes en estos días, algo así:

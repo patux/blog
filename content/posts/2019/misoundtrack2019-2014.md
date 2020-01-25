@@ -1,7 +1,8 @@
 ---
 title: "el soundtrack de mi década"
 date: 2019-12-23T19:15:01-06:00
-tags: ["music", "2019", "personal", "decada", "playlist", "spanish"]
+tags: ["music", "2019", "decada", "playlist", "spanish"]
+categories: ["hobbies"]
 ---
 
 En el 2014 comencé de crear un playlist por año, básicamente al inicio de cada año creo una nueva playlist en spotify y conforme pasa el año y escucho rolas que me gustan (principalmente nuevas o que no había escuchado) las voy agregando al playlist del mismo. 

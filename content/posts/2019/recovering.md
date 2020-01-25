@@ -1,7 +1,8 @@
 ---
 title: "recovering"
 date: 2019-11-19T22:10:28-06:00
-tags: ["2019", "english", "personal"]
+tags: ["2019", "english"]
+categories: ["personal"]
 ---
 
 ### Health

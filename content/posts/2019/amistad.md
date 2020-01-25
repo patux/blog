@@ -1,7 +1,8 @@
 ---
 title: "amistad"
 date: 2019-11-28T22:58:38-06:00
-tags: ["2019", "spanish", "personal", "friendship"]
+tags: ["2019", "spanish", "friendship"]
+categories: ["personal"]
 ---
 
 ![Amistad](/images/amistad.jpg)

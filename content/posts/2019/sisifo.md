@@ -2,7 +2,8 @@
 title: "sísifo"
 date: 2019-12-12T22:52:22-06:00
 draft: false
-tags: ["personal", "life", "2019", "reflections", "spanish"]
+tags: ["life", "2019", "reflections", "spanish"]
+categories: ["personal"]
 ---
 
 Cuando pongo en perspectiva lo que he hecho y donde estoy invariablemente salen estos pensamientos a relucir. Mas allá de ambiciones, metas, retos, logros personales y competencias laborales, no puedo decir que el progreso personal laboral me haya llenado o me haya dado un sentido de realización en la vida; mas allá de el rush inicial por el logro o meta cumplida, obstáculo superado o reto alcanzado; Inevitablemente, al poco tiempo, viene a la mente este tipo de pensamientos ¿ y ahora que sigue ?, ¿ porque lo hago ? ¿ a donde voy ?
