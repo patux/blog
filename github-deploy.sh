@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-docker run --user `id -u` --rm  -v $(pwd):/usr/share/blog monachus/hugo hugo -v # if using a theme, replace with `hugo -t <YOURTHEME>`
+./hugo.sh # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
