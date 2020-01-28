@@ -16,7 +16,7 @@ enableEmoji = true
 disqusShortname = "patux-blog"
 
 # Google Analytics
-googleAnalytics = "A-1686459-1"
+googleAnalytics = "UA-1686459-1"
 
 paginate = 10
 
