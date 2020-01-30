@@ -1,5 +1,5 @@
 +++
-title = "how bezos’ phone was hacked"
+title = "how bezos' phone was hacked"
 date = 2020-01-27T04:58:26Z
 lastmod = 2020-01-27T04:58:26Z
 tags = ["iphone X", "hacks", "article", "english"]
