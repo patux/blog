@@ -57,11 +57,3 @@ showTags = true             # /tags/
 [[params.nav.custom]]
 title = "About"
 url = "/about/"
-
-[[params.nav.custom]]
-title = "Twitter"
-url = "https://twitter.com/patux"
-
-[[params.nav.custom]]
-title = "Linkedin"
-url = "https://www.linkedin.com/in/patux/"
