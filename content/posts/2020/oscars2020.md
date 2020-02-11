@@ -1,22 +1,22 @@
 +++
 title = "Oscars 2020"
-date = 2020-02-09T18:22:56Z
-lastmod = 2020-02-09T18:22:56Z
+date = 2020-02-09T18:22:56-06:00
+lastmod = 2020-02-09T18:22:56-06:00
 tags = ["movies", "2020", "english"]
 categories = ["hobbies"]
 imgs = []
-readingTime = true  # show reading time after article date
-toc = true
-comments = false
+readingTime = false  # show reading time after article date
+toc = false
+comments = true
 justify = false  # text-align: justify;
 single = false  # display as a single page, hide navigation on bottom, like as about page.
 license = ""  # CC License
 draft = false
 +++
 
-Here is my list of favorites to win for some categories in the upcomming [92th Academy Awards ceremony](https://www.oscars.org/oscars/ceremonies/2020)
+Here is my list of favorites to win for some categories in the upcomming [92th Academy Awards ceremony](https://www.oscars.org/oscars/ceremonies/2020)<!--more-->
 
-### Best Picture
+## Best Picture
 
 * “Ford v Ferrari”
 * “The Irishman”
@@ -28,7 +28,7 @@ Here is my list of favorites to win for some categories in the upcomming [92th A
 * “Once Upon a Time in Hollywood”
 * __“Parasite”__
 
-### Lead Actor
+## Lead Actor
 
 * Antonio Banderas, "Pain and Glory"
 * Leonardo DiCaprio, "Once Upon a Time in Hollywood"
@@ -36,7 +36,7 @@ Here is my list of favorites to win for some categories in the upcomming [92th A
 * __Joaquin Phoenix, "Joker"__
 * Jonathan Pryce, "The Two Popes"
 
-### Lead Actress
+## Lead Actress
 
 * Cynthia Erivo, "Harriet"
 * Scarlett Johansson, "Marriage Story"
@@ -44,7 +44,7 @@ Here is my list of favorites to win for some categories in the upcomming [92th A
 * __Charlize Theron, "Bombshell"__
 * Renée Zellweger, "Judy"
 
-### Supporting Actor
+## Supporting Actor
 
 * Tom Hanks, "A Beautiful Day in the Neighborhood"
 * Anthony Hopkins, "The Two Popes"
@@ -52,7 +52,7 @@ Here is my list of favorites to win for some categories in the upcomming [92th A
 * Joe Pesci, "The Irishman"
 * __Brad Pitt, "Once Upon a Time in Hollywood"__
 
-### Supporting Actress
+## Supporting Actress
 
 * Kathy Bates, "Richard Jewell"
 * Laura Dern, "Marriage Story"
@@ -60,7 +60,7 @@ Here is my list of favorites to win for some categories in the upcomming [92th A
 * Florence Pugh, "Little Women"
 * Margot Robbie, "Bombshell"
 
-### Director
+## Director
 
 * Martin Scorsese, "The Irishman"
 * Todd Phillips, "Joker"

@@ -6,11 +6,13 @@ copyright = "This is a personal web page. Things said here do not represent the 
 languageCode = "en"  # for the RSS generation
 defaultContentLanguage = "en"
 
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 enableRobotsTXT = true
 
 enableEmoji = true
+
+summaryLength = 50
 
 # Enable Disqus
 disqusShortname = "patux-blog"
