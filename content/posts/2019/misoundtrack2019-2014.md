@@ -24,36 +24,26 @@ El resultado son listas de canciones (a veces muy eclécticas) a las cuales las 
 
 Así pues aquí el soundtrack de mi 2019 y ademas el soundtrack de mi década. - o al menos de la mitad de mi década, que es cuando comencé a utilizar spotify y a hacer este ejercicio -
 
-## 2019
-{{< rawhtml >}}
+### 2019
+
 <iframe src="https://open.spotify.com/embed/playlist/69oOZdVFHycNZ3YtAqDkCu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{< /rawhtml >}}
 
-## 2018
-{{< rawhtml >}}
+### 2018
+
 <iframe src="https://open.spotify.com/embed/playlist/0lIuYB0ZqZ584qzGZ4velD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{< /rawhtml >}}
 
-## 2017
+### 2017
 
-{{< rawhtml >}}
 <iframe src="https://open.spotify.com/embed/playlist/6Lkjqpm5SRgtTFt1XNR4Pv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{< /rawhtml >}}
 
-## 2016
+### 2016
 
-{{< rawhtml >}}
 <iframe src="https://open.spotify.com/embed/playlist/5uU7oGOvzcE47JbRYXUTzQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{< /rawhtml >}}
 
-## 2015
+### 2015
 
-{{< rawhtml >}}
 <iframe src="https://open.spotify.com/embed/playlist/3fI0iXYxGDWS2tYS6lPAFf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{< /rawhtml >}}
 
-## 2014
+### 2014
 
-{{< rawhtml >}}
 <iframe src="https://open.spotify.com/embed/playlist/5Sa05BQtCj6J3RKiaykhJP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{< /rawhtml >}}

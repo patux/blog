@@ -15,6 +15,4 @@ Esto aunado a situaciones que he visto o vivido y han pasado pasado en la famili
 
 **Felices Fiestas!!**
 
-{{< rawhtml >}}
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/p4tux/49255887528/in/dateposted-public/" title="El espíritu navideño llegó a mi casa después de 10 años."><img src="https://live.staticflickr.com/65535/49255887528_8dd1d9f0cc.jpg" width="241" height="500" alt="El espíritu navideño llegó a mi casa después de 10 años."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-{{< /rawhtml >}}

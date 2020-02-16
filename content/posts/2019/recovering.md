@@ -13,9 +13,7 @@ Last saturday got my second b12 shot, and had long week in MX due [Revolution Da
 ### Family
 Spend long weekend with family, and yesterday I was able to take my dog out :-)
 
-{{< rawhtml >}}
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/p4tux/49093776942/in/dateposted-public/" title="2019-11-19_10-58-52"><img src="https://live.staticflickr.com/65535/49093776942_7457ca8eb4.jpg" width="500" height="500" alt="2019-11-19_10-58-52"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-{{< /rawhtml >}}
 
 ### Blogging
 

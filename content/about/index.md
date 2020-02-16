@@ -14,7 +14,6 @@ license = ""  # CC License
 draft = false
 +++
 
-{{< rawhtml >}}
 <div align="right">
 <a href="https://www.linkedin.com/in/patux/" target="_blank"><img src="linkedin.svg" alt"Linkedin"></a>
 <a href="https://twitter.com/patux" target="_blank"><img src="twitter.svg" alt"Twitter"></
@@ -22,7 +21,6 @@ a>
 <a href="https://github.com/patux" target="_blank"><img src="github.svg" alt"Github"></a>
 <a href="mailto:gorozco`at`gmail`dot`com?subject=Contact from patux dot net" target="_top"><img src="mail.svg" alt"Mail"></a>
 </div>
-{{< /rawhtml>}}
 
 ### Work
 
