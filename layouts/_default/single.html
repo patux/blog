@@ -1,0 +1,18 @@
+{{- define "main" -}}
+{{- partial "article-header.html" . -}}
+{{- $justify := false -}}
+{{- if eq .Params.justify true -}} {{- $justify = true -}} {{- end -}}
+<article class="article markdown-body" {{- if $justify -}}style="text-align: justify;" {{- end -}}>
+    {{- .Content -}}
+
+    {{- if not (eq .Params.single true) -}}
+    {{- partial "share-buttons.html" . -}}
+    {{- end -}}
+    
+</article>
+{{- partial "article-labels.html" . -}}
+{{- partial "article-license.html" . -}}
+{{- partial "article-author.html" . -}}
+{{- partial "article-bottom-navigation.html" . -}}
+{{- partial "article-comments.html" . -}}
+{{- end -}}
