@@ -1,5 +1,5 @@
 +++
-title = "Oscars 2020"
+title = "oscars 2020"
 date = 2020-02-09T18:22:56-06:00
 lastmod = 2020-02-09T18:22:56-06:00
 tags = ["movies", "2020", "english"]
