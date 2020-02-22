@@ -24,7 +24,7 @@ a>
 
 ### Work
 
-Sr. Software Engineering Manager. Working with Open Source Software for about 20 years, former Cloud Developer, Software Developer, Sysadmin and  Q.A. Engineer.
+Sr. Engineering Manager, working with Open Source Software for about 20 years, former Cloud Developer, Software Developer, Sysadmin and  Q.A. Engineer.
 
 ### Hobbies
 
