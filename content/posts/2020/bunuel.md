@@ -1,5 +1,5 @@
 +++
-title = "Peliculas de Luis Buñuel online"
+title = "peliculas de luis buñuel online"
 date = 2020-06-21T19:47:26Z
 lastmod = 2020-06-21T19:47:26Z
 tags = ["movies", "2020", "spanish"]
