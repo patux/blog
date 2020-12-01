@@ -7,7 +7,7 @@ categories: ["personal"]
 
 Por alguna razón este año me siento con mas espíritu navideño, usualmente navidad y año nuevo no me llamaban la atención, por lo general me caían gordas las personas que andaban todas felices y sonrientes en estos días, algo así:
 
-{{<twitter_simple 1205577202223456257 >}}
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Qué pedo con la raza que anda feliz? JAJAJA Wey, es diciembre, todos andamos valiendo vrga, tristes por ex’es y con crisis emocionales en diciembre. Respeta eso o vete de aquí, no sé, llévate tu alegría a marzo o qué se yo, algún otro mes así, en donde ya a nadie le importe.</p>&mdash; 𝘾𝙡𝙪𝙗 𝙦𝙪𝙚 𝙚𝙭𝙩𝙧𝙖𝙣̃𝙖𝙣 𝙖 𝙨𝙪 𝙚𝙭 ✨ (@ClubdelosEx) <a href="https://twitter.com/ClubdelosEx/status/1205577202223456257?ref_src=twsrc%5Etfw">December 13, 2019</a></blockquote>
 
 Este año si la sufrí un poco con la salud, conforme pasa el tiempo me doy cuenta que comienzan los dolores aquí y allá de cosas que les escuchaba a las personas que yo consideraba ya "viejas" de niño. Los años ya no son los mismos y he estado pagando las consecuencias de no cuidarme como es debido.
 
