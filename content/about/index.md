@@ -41,5 +41,4 @@ Sr. Engineering Manager, working with Open Source Software for about 20 years, f
 * Barbequer - I like learning and cooking bbq
 
 
-<img src="https://live.staticflickr.com/7616/16877639095_e2ae7e1453_z.jpg" width="640" height="640" alt="#nofilter #tapalpa">o
-
+<img src="https://live.staticflickr.com/7616/16877639095_e2ae7e1453_z.jpg" width="640" height="640" alt="#nofilter #tapalpa">
