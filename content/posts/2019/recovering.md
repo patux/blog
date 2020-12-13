@@ -8,7 +8,8 @@ categories: ["personal"]
 ### Health
 Last saturday got my second b12 shot, and had long week in MX due [Revolution Day (México)](https://en.wikipedia.org/wiki/Revolution_Day_(Mexico)) which I used to take some rest and recover. I am feeling better than last week. I can't wait to go back to biking again.
 
-{{<twitter_simple 1196244285131251712 >}}
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Con salud todo, sin ella nada. :-/</p>&mdash; Gerónimo Orozco (@patux) <a href="https://twitter.com/patux/status/1196244285131251712?ref_src=twsrc%5Etfw">November 18, 2019</a></blockquote>
+
 
 ### Family
 Spend long weekend with family, and yesterday I was able to take my dog out :-)
