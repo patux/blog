@@ -16,73 +16,36 @@ draft = false
 
 Soy admirador de [Luis Buñuel](https://en.wikipedia.org/wiki/Luis_Bu%C3%B1uel) y sus películas.
 
-## Un Perro Andaluz
+## [Un Perro Andaluz](https://www.youtube.com/watch?v=vNJwPrAxkB4)
 
-Con la colaboracion en el guion de Salvador Dalí 
-{{< youtube vNJwPrAxkB4 >}}
+Con la colaboracion en el guion de Salvador Dalí
 
-## Belle de Jour
+## [Belle de Jour](https://www.youtube.com/watch?v=vXhSpgG3eGE)
 
-{{< youtube vXhSpgG3eGE >}}
+## [El Angel Exterminador](https://www.youtube.com/watch?v=9NbLmuQS-ko)
 
-## El Angel Exterminador
+## [Los Olvidados](https://www.youtube.com/watch?v=ECpINb0Rh68)
 
-{{< youtube 9NbLmuQS-ko >}}
+## [Viridiana](https://www.youtube.com/watch?v=lIvBqpOCfQ8)
 
-## Los Olvidados 
+## [Nazarin](https://www.youtube.com/watch?v=6kkzkQgT14g)
 
-{{< youtube ECpINb0Rh68 >}}
+## [Simon del Desierto](https://www.youtube.com/watch?v=zcWWhbF_r2s)
 
-## Viridiana 
+## [Ensayo de Un Crimen](https://www.youtube.com/watch?v=oPFPozVr-N4)
 
-{{< youtube  lIvBqpOCfQ8 >}}
+## [La Ilusion Viaja en Tranvia](https://www.youtube.com/watch?v=ck-IRtv3Kfc)
 
-## Nazarin
+## [El](https://www.youtube.com/watch?v=gP1KaQ0SO_Y)
 
-{{< youtube 6kkzkQgT14g >}}
+## [Susana](https://www.youtube.com/watch?v=HNsHmIZTgdI)
 
-## Simon del Desierto 
+## [Tierra sin Pan](https://www.youtube.com/watch?v=qO86FO1bs6g)
 
-{{< youtube zcWWhbF_r2s >}}
+## [El Rio y la Muerte](https://www.youtube.com/watch?v=P5550SYIM2Q)
 
-## Ensayo de Un Crimen 
+## [El Bruto](https://www.youtube.com/watch?v=mkvZxT5hd84)
 
-{{< youtube oPFPozVr-N4 >}}
+## [La Hija del Engaño](https://www.youtube.com/watch?v=h-_4dC4AeFE)
 
-## La Ilusion Viaja en Tranvia
-
-{{< youtube ck-IRtv3Kfc >}}
-
-## El
-
-{{< youtube gP1KaQ0SO_Y >}}
-
-## El Fantasma de la Libertad
-
-En italiano
-
-{{< youtube xpzrSXj5k80 >}}
-
-## Susana
-
-{{< youtube HNsHmIZTgdI >}}
-
-## Tierra sin Pan
-
-{{< youtube qO86FO1bs6g >}}
-
-## El Rio y la Muerte
-
-{{< youtube P5550SYIM2Q >}}
-
-## El Bruto
-
-{{< youtube mkvZxT5hd84 >}}
-
-## La Hija del Engaño
-
-{{< youtube h-_4dC4AeFE >}}
-
-## El Gran Calavera
-
-{{< youtube MeStXhY48gg >}}
+## [El Gran Calavera](https://www.youtube.com/watch?v=MeStXhY48gg)
