@@ -131,4 +131,8 @@ Autor: Elías M. Zacarías
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/p4tux/50823680546/in/dateposted-public/" title="recorte_papa_1982_ser_hombre"><img src="https://live.staticflickr.com/65535/50823680546_ffe181649d_z.jpg" width="360" height="640" alt="recorte_papa_1982_ser_hombre"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Este poema me recordo una cancion de Napoleon que era de las favoritas de mi papá. :heart:
+
+<iframe src="https://open.spotify.com/embed/track/2NDxFeo5SnuUhtigu8HXbQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 Quiero pensar nuestros padres aun nos cuidan y nos mandan mensajes desde donde estén :growing_heart:
