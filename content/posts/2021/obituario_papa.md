@@ -25,9 +25,9 @@ Hay 2 dichos (tal vez mas) de el que moldearon mi personalidad y han estados con
 
   > El mejor amigo del hombre es un peso en la bolsa.
 
-  > Lo mas valioso que un hombre tiene es su palabra, siempre que quedes en algo hay que cumplirlo.
+  > Lo mas valioso que un hombre tiene es su palabra.
 
-La partida de papá fue muy inesperada, nos rompió el corazón y nos dejo con una sensación de soledad y desconsolados. Mis hermanos y yo siempre vimos a mi papá fuerte y sano como un roble, aun hacia y se encargaba de muchas cosas, aun fungía al 110% su papél de amoroso esposo cuidando a mi madre y de padre protector, era luz y guía para cada uno de nosotros sus hijos ademas de mi mamá. Aun cuando lo llevamos al hospital por recomendación de 2 médicos, y con todo y la angustia siempre pensamos que se recuperaría, lo veíamos grande y fuerte como cualquier niño pequeño ve a su padre, tal vez por eso, ademas de las circunstancias, la noticia de su fallecimiento ha sido un golpe aun mas duro y mas difícil de digerir para mi, para mis hermanos, sus nietos, sus hermanas y las personas que lo conocieron. Solo nos queda agradecer el tiempo las enseñanzas y los momentos que vivimos con el. :pray:
+La partida de papá fue muy inesperada, nos rompió el corazón y nos dejo con una sensación de soledad y desconsolados. Mis hermanos y yo siempre vimos a mi papá fuerte y sano como un roble, aun hacia y se encargaba de muchas cosas, aun fungía al 110% su papél de amoroso esposo cuidando a mi madre y de padre protector, era luz y guía para cada uno de nosotros sus hijos ademas de mi mamá. Aun cuando lo llevamos al hospital por recomendación de 2 médicos, y con todo y la angustia siempre pensamos que se recuperaría, lo veíamos grande y fuerte como cualquier niño pequeño ve a su padre, tal vez por eso, ademas de las circunstancias, la noticia de su fallecimiento ha sido un golpe aun mas duro y mas difícil de digerir para mi, para mis hermanos, sus nietos, sus hermanas y las personas que lo conocieron. Solo me queda agradecer el tiempo las enseñanzas y los momentos que vivi con el. :pray:
 
 _Papá te fuiste muy pronto :sob:, tus hijos estamos devastados :broken_heart: Gracias por todas tus enseñanzas, tu mano firme y cuidados. Somos lo que somos gracias a ti y tu gran ejemplo, ya no tendré a quien pedirle consejo, opinión y guía, con quien pueblear y ver películas, eras una persona muy querida por muchísima gente, tenias buen trato y don de gentes, siempre me asombro tu capacidad de trato y palabra con gente en todos lados. Tu amor por mi madre era enorme y también por tus hijos, siempre siempre viste por nosotros hasta tu ultimo dia. Me quedo con todas tus enseñanzas y los muchas cosas vividas juntos, nos vas a hacer muchísima falta._
 
@@ -36,4 +36,4 @@ Te recordaremos con mucho cariño papá :older_man: te quiero mucho :black_heart
 
 <img src="https://live.staticflickr.com/65535/50765529532_1266b9d4a8_z.jpg" width="640" height="480" alt="Papá y yo">
 
-Hoy en su cumpleaños publico esta obituario en memoria de **Rigoberto Orozco Rodriguez** padre, esposo y hermano.
+Hoy en su cumpleaños publico esta obituario en memoria de **Rigoberto Orozco Rodriguez** padre, esposo, hermano y abuelo.

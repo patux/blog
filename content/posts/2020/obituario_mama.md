@@ -21,4 +21,4 @@ _Me quedo con muchísimos recuerdos bonitos mamá, tu olor, tu sonrisa, tu risa,
 
 <img src="https://live.staticflickr.com/65535/50714973033_166371e69e_z.jpg" width="640" height="380" alt="Mamá y yo">
 
-Hoy en su cumpleaños publico esta obituario en memoria de **Lucia Guadalupe Martínez León** madre, esposa y hermana.
+Hoy en su cumpleaños publico esta obituario en memoria de **Lucia Guadalupe Martínez León** madre, esposa, hermana y abuela.
