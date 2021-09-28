@@ -41,4 +41,11 @@ Sr. Engineering Manager, working with Open Source Software for about 20 years, f
 * Barbequer - I like learning and cooking bbq
 
 
+### Formal Bio Spanish
+
+Geronimo Orozco es Licenciado en Informática y cursó la Maestría en Tecnologías de la Información ambas en la Universidad de Guadalajara. Fue fundador del Grupo Linux de Occidente en 1999, y co-organizador del Festival de Software Libre de 2002 a 2007, desarrollador del software de conferencias YaCOMAS liberado bajo la GPL en 2004 y co-organizador de OpenStackGDL de 2014 a 2018. Cuenta con más de 20 años de experiencia en el area de desarrollo de software y ha trabajado diversas  empresas nacionales y transnacionales donde se ha desempeñado como System Programmer,  Quality Assurance Engineer, SysAdmin, System Programmer, Software Engineer, DevOps Engineer, Cloud Developer Engineer. 
+
+En los últimos 7 años se ha desempeñado como Software Engineering Manager en Intel liderando equipos de desarrollo e integración de  soluciones basadas en open source con contribuciones de Intel para habilitar nuevas capacidades de procesadores Intel en el Software.
+
+
 <img src="https://live.staticflickr.com/7616/16877639095_e2ae7e1453_z.jpg" width="640" height="640" alt="#nofilter #tapalpa">
