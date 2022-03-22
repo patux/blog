@@ -29,7 +29,7 @@ a>
 
 ### Work
 
-Sr. Engineering Manager, working with Open Source Software for about 20 years, former Cloud Developer, Software Developer, Sysadmin and  Q.A. Engineer.
+Sr. Engineering Manager, working with Open Source Software for about 22 years, former Cloud Developer, Systems Programmer, Sysadmin, Q.A. Engineer and Programmer.
 
 ### Hobbies
 
@@ -43,18 +43,20 @@ Sr. Engineering Manager, working with Open Source Software for about 20 years, f
 
 ### Formal Bio Spanish
 
-Geronimo Orozco tiene 23+ años de experiencia en software, obtuvo una Licenciatura en Informatica y curso la Maestría en Tecnología de la Información. Fue cofundador del Grupo Linux de Occidente A.C. en 1999, miembro de la organización del Festival de Software Libre de 2002 a 2007, desarrolló el software de conferencias YaCOMAS lanzado bajo la GPL en 2004, coorganizador de OpenStackGDL de 2014 a 2018. Ha laborado en diversas empresas nacionales y transnacionales donde ha ocupado diversos roles: Programador de Sistemas, Ingeniero de Aseguramiento de Calidad, SysAdmin, Ingeniero de Software e Ingeniero DevOps.
+Geronimo Orozco tiene 23+ años de experiencia en software, obtuvo una Licenciatura en Informatica y curso la Maestría en Tecnología de la Información. Fue co-fundador del Grupo Linux de Occidente A.C. en 1999, miembro de la organización del Festival de Software Libre de 2002 a 2007, desarrolló el software de conferencias YaCOMAS lanzado bajo la GPL en 2004, co-organizador de OpenStackGDL de 2014 a 2018. Ha laborado en diversas empresas nacionales y transnacionales donde ha ocupado diversos roles: Programmer, Ingeniero de Aseguramiento de Calidad, Programador de Sistemas, Sysadmin, Ingeniero de Software e Ingeniero DevOps.
 
 Se unió a Intel en 2011 y ha sido Gerente de Ingeniería de Software durante 7 años en los liderando equipos de desarrollo de software creando soluciones basadas en código abierto y contribuciones de Intel para habilitar nuevas capacidades de los productos Intel en Software.
 
-https://github.com/gorozco1
+  * https://github.com/gorozco1
+  * https://github.com/patux
 
 ### Formal Bio English
 
-Geronimo Orozco has 23+ years of experience in software, obtained a Bachelor's Degree in Computer Science and a Master's Degree in Information Technology. He was a co-founder of Grupo Linux de Occidente A.C. In 1999, co-organizer of the Conference Festival de Software Libre,  from 2002 to 2007, he developed the YaCOMAS conference software released under the GPL in 2004, co-organizer of OpenStackGDL from 2014 to 2018. He has worked in various national and transnational companies where he has held various roles: Systems Programmer, Quality Assurance Engineer, SysAdmin, Software Engineer and DevOps Engineer.
+Geronimo Orozco has 23+ years of experience in software, obtained a Bachelor's Degree in Computer Science and a Master's Degree in Information Technology. He was a co-founder of Grupo Linux de Occidente A.C. In 1999, co-organizer of the Conference Festival de Software Libre,  from 2002 to 2007, he developed the YaCOMAS conference software released under the GPL in 2004, co-organizer of OpenStackGDL from 2014 to 2018. He has worked in various national and transnational companies where he has held various roles: Programmer, Quality Assurance Engineer, Systems Programmer, Sysadmin, Software Engineer and DevOps Engineer.
 
 He joined Intel in 2011 and has been a Software Engineering Manager for 7 years, leading software development teams creating open source based solutions with contributions from Intel to enable new capabilities of Intel products in Software.
 
-https://github.com/gorozco1
+  * https://github.com/gorozco1
+  * https://github.com/patux
 
 <img src="https://live.staticflickr.com/7616/16877639095_e2ae7e1453_z.jpg" width="640" height="640" alt="#nofilter #tapalpa">
