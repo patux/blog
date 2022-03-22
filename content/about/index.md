@@ -34,8 +34,8 @@ Sr. Engineering Manager, working with Open Source Software for about 22 years, f
 ### Hobbies
 
 * Swim - I usually swim 2-3 days a week
-* Biking - Heavily attached to biking, I use bike usually to go visit family and friends and shopping or just for fun, usually do mountain biking, once or twice every two weeks.
-* Outdoors - Walk int he country with my dog, loves sunrises more than sunsets, heavily connected with biking and my puppy
+* Biking - Heavily attached to biking, I do urban biking, and from time to time mountain biking.
+* Outdoors - Walk int he country with my dog, loves sunrises more than sunsets, heavily connected with biking and dog
 * Reading - Classic literacy, fantasy, sci-fi and work related books.
 * Movies - Love watching movies a lot, and one or two series.
 * Barbequer - I like learning and cooking bbq
@@ -45,18 +45,12 @@ Sr. Engineering Manager, working with Open Source Software for about 22 years, f
 
 Geronimo Orozco tiene 23+ años de experiencia en software, obtuvo una Licenciatura en Informatica y curso la Maestría en Tecnología de la Información. Fue co-fundador del Grupo Linux de Occidente A.C. en 1999, miembro de la organización del Festival de Software Libre de 2002 a 2007, desarrolló el software de conferencias YaCOMAS lanzado bajo la GPL en 2004, co-organizador de OpenStackGDL de 2014 a 2018. Ha laborado en diversas empresas nacionales y transnacionales donde ha ocupado diversos roles: Programmer, Ingeniero de Aseguramiento de Calidad, Programador de Sistemas, Sysadmin, Ingeniero de Software e Ingeniero DevOps.
 
-Se unió a Intel en 2011 y ha sido Gerente de Ingeniería de Software durante 7 años en los liderando equipos de desarrollo de software creando soluciones basadas en código abierto y contribuciones de Intel para habilitar nuevas capacidades de los productos Intel en Software.
-
-  * https://github.com/gorozco1
-  * https://github.com/patux
+Se unió a Intel en 2011 para hacer software development, despues se movio a Software Engineering Manager liderando equipos de desarrollo de software creando soluciones basadas en código abierto para Intel.
 
 ### Formal Bio English
 
 Geronimo Orozco has 23+ years of experience in software, obtained a Bachelor's Degree in Computer Science and a Master's Degree in Information Technology. He was a co-founder of Grupo Linux de Occidente A.C. In 1999, co-organizer of the Conference Festival de Software Libre,  from 2002 to 2007, he developed the YaCOMAS conference software released under the GPL in 2004, co-organizer of OpenStackGDL from 2014 to 2018. He has worked in various national and transnational companies where he has held various roles: Programmer, Quality Assurance Engineer, Systems Programmer, Sysadmin, Software Engineer and DevOps Engineer.
 
-He joined Intel in 2011 and has been a Software Engineering Manager for 7 years, leading software development teams creating open source based solutions with contributions from Intel to enable new capabilities of Intel products in Software.
-
-  * https://github.com/gorozco1
-  * https://github.com/patux
+He joined Intel in 2011 doing software automation for 4 years, then moved to Software Engineering Manager leading software development teams creating open source based solutions for Intel.
 
 <img src="https://live.staticflickr.com/7616/16877639095_e2ae7e1453_z.jpg" width="640" height="640" alt="#nofilter #tapalpa">
