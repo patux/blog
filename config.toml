@@ -20,7 +20,7 @@ disqusShortname = "patux-blog"
 # Google Analytics
 googleAnalytics = "UA-1686459-1"
 
-paginate = 10
+# pagination.pagerSize = 10
 
 [markup.highlight]
 codeFences = true
@@ -68,7 +68,7 @@ url = "/about/"
     disable = true
   [privacy.instagram]
     disable = true
-  [privacy.twitter]
+  [privacy.x]
     disable = true
   [privacy.vimeo]
     disable = true
